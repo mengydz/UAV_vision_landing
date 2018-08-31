@@ -17,5 +17,5 @@ Step8:Judge id contours are in the circles
 
 word pictures
 
-cap1.jpg
+![image](https://github.com/ChenMyjob/UAV_version_landing/blob/master/cap1.JPG)
 
