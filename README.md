@@ -1,4 +1,4 @@
-# UAV_version_landing
+# UAV_vision_landing
 Step1:cvCvtColor
 
 Step2:cvSmooth
@@ -17,10 +17,10 @@ Step8:Judge id contours are in the circles
 
 # work pictures
 
-![image](https://github.com/ChenMyjob/UAV_version_landing/blob/master/cap1.JPG)
+![image](https://github.com/ChenMyjob/UAV_vision_landing/blob/master/cap1.JPG)
 
-![image](https://github.com/ChenMyjob/UAV_version_landing/blob/master/cap2.JPG)
+![image](https://github.com/ChenMyjob/UAV_vision_landing/blob/master/cap2.JPG)
 
-![image](https://github.com/ChenMyjob/UAV_version_landing/blob/master/first_match.jpg)
+![image](https://github.com/ChenMyjob/UAV_vision_landing/blob/master/first_match.jpg)
 
 
